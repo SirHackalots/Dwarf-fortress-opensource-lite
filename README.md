@@ -1,4 +1,5 @@
 ASCII RPG Game
+
 Welcome to the ASCII RPG Game! This game is a text-based adventure where you control a character exploring a dynamic world filled with creatures, resources, and buildings. Your goal is to survive, thrive, and possibly build a thriving community in this unique environment.
 
 Getting Started
